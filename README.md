@@ -1,15 +1,15 @@
-<h1 align="center"><img src="./resources/extras/GeezFire.gif" width="35px">𝐎𝐔𝐑𝐀-𝐔𝐁𝐎𝐓<img src="./resources/extras/GeezFire.gif" width="35px"></h1>
+<h1 align="center"><img src="./resources/extras/GeezFire.gif" width="35px">Litch-Ubot<img src="./resources/extras/GeezFire.gif" width="35px"></h1>
 
 <p align="center">
-    <a href="https://github.com/Oura-Ubot/Ouraaa-Userbot/commits/Ouraaa-Userbot"><img src="https://img.shields.io/github/last-commit/Oura-Ubot/Ouraaa-Userbot?color=ff0000&logo=github&logoColor=ffffff&style=for-the-badge" /></a>
-    <a href="https://github.com/Oura-Ubot/Ouraaa-Userbot"> <img src="https://img.shields.io/github/repo-size/Oura-Ubot/Ouraaa-Userbot?logo=github&style=for-the-badge" /></a>
+    <a href="https://github.com/LitchUbot/Litch-Ubot/commits/Litch-Ubot"><img src="https://img.shields.io/github/last-commit/LitchUbot/Litch-Ubot?color=ff0000&logo=github&logoColor=ffffff&style=for-the-badge" /></a>
+    <a href="https://github.com/LitchUbot/Litch-Ubot"> <img src="https://img.shields.io/github/repo-size/LitchUbot/Litch-Ubot?logo=github&style=for-the-badge" /></a>
     <a href="https://pypi.org/project/Telethon/"><img src="https://img.shields.io/pypi/v/telethon?color=important&label=telethon&logo=python&logoColor=brightgreen&style=for-the-badge" /></a>
     <img alt="PYTHON" src="https://img.shields.io/badge/PYTHON-v3.9.6-purple?style=for-the-badge&logo=appveyor"/>
     </p>
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/cb787d78795d6e6a29530.jpg">
+  <img src="https://telegra.ph/file/3f61f1496b80bfaf9d30a.jpg">
 </p>
 
 
@@ -28,7 +28,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan dengan bijak.
 
 
 ## Heroku Deployment
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Oura-Ubot/Ouraaa-Userbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LitchUbot/Litch-Ubot)
 
 
 ### Support & Updates 
