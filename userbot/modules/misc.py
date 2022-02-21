@@ -70,7 +70,7 @@ async def killdabot(event):
 
 @register(outgoing=True, pattern="^.restart$")
 async def killdabot(event):
-    await event.edit("`⚡𝘖𝘶𝘳𝘢𝘢𝘢-𝘜𝘴𝘦𝘳𝘣𝘰𝘵⚡ Sedang Restart Sabar ya setan...`")
+    await event.edit("`⚡Litch-Ubot ⚡ Sedang Restart Sabar ya setan...`")
     await asyncio.sleep(10)
     await event.delete()
     if BOTLOG:
@@ -108,9 +108,9 @@ async def repeat(rep):
 async def repo_is_here(wannasee):
     """ For .repo command, just returns the repo URL. """
     await wannasee.edit(
-        "**Hey**, I am using **⚡𝐎𝐔𝐑𝐀-𝐔𝐁𝐎𝐓⚡** \n"
-        "➣ **Repo Userbot :** [ɢɪᴛʜᴜʙ](https://github.com/Oura-Ubot/Ouraaa-Userbot)\n"
-        "➣**Owner Bot     :** [Ouraaa](t.me/Ekojuuuuu)\n"
+        "**Hey**, I am using **⚡LITCH-UBOT⚡** \n"
+        "➣ **Repo Userbot :** [ɢɪᴛʜᴜʙ](https://github.com/LitchUbot/Litch-Ubot)\n"
+        "➣**Owner Bot     :** [Reja](t.me/rzamaulnaptra)\n"
         "➣ **Support       :** [sᴜᴘᴘᴏʀᴛ](https://t.me/BdrlSupporrt)\n"
         "➣ **Channel       :** [ᴄʜᴀɴɴᴇʟ](https://t.me/myventtt)\n"
     )
