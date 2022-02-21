@@ -1,7 +1,7 @@
 {
-  "name": "Ouraaa-Userbot",
- "description": "OURA -USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
-  "logo": "https://telegra.ph/file/cb787d78795d6e6a29530.jpg",
+  "name": "Litch-Ubot",
+ "description": "LITCH -USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
+  "logo": "https://telegra.ph/file/3f61f1496b80bfaf9d30a.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,8 +9,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Oura-Ubot/Ouraaa-Userbot/Ouraaa-Userbot",
-  "telegram": "https://t.me/Ekojuuuuu",
+  "repository": "https://github.com/LitchUbot/Litch-Ubot/Litch-Ubot",
+  "telegram": "https://t.me/rzamaulnaptra",
   "success_url": "https://t.me/BdrlSupporrt",
   "stack": "container",
   "env": {
