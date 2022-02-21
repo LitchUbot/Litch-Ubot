@@ -112,7 +112,7 @@ async def repo_is_here(wannasee):
         "➣ **Repo Userbot :** [ɢɪᴛʜᴜʙ](https://github.com/LitchUbot/Litch-Ubot)\n"
         "➣**Owner Bot     :** [Reja](t.me/rzamaulnaptra)\n"
         "➣ **Support       :** [sᴜᴘᴘᴏʀᴛ](https://t.me/BdrlSupporrt)\n"
-        "➣ **Channel       :** [ᴄʜᴀɴɴᴇʟ](https://t.me/myventtt)\n"
+        "➣ **Channel       :** [ᴄʜᴀɴɴᴇʟ](https://t.me/Unsupportesd)\n"
     )
 
 
